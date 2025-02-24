@@ -1,32 +1,66 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18371594&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engineering is the systematic application of engineering principles to design, develop, test, deploy, and maintain software.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+1968 NATO Conference: Coined the term "software engineering" to address the "software crisis" of unreliable, over-budget projects.
 
+1970s Structured Programming: Introduced modular design (e.g., Dijkstra’s principles), improving code clarity and maintainability.
+
+2001 Agile Manifesto: Shifted focus to iterative development, customer collaboration, and adaptability, revolutionizing project management (e.g., Scrum, Kanban).
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Requirements Gathering: Define user needs and system specifications.
 
+Design: Create architecture (e.g., UML diagrams).
+
+Implementation: Write code.
+
+Testing: Validate functionality (unit, integration, etc.).
+
+Deployment: Release to users.
+
+Maintenance: Fix bugs and update features.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Waterfall: Linear, sequential phases. Best for stable requirements (e.g., regulatory compliance systems). Example: NASA spacecraft software.
+
+Agile: Iterative, flexible. Ideal for dynamic projects (e.g., e-commerce apps). Example: Spotify’s continuous feature updates.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software Developer: Writes code, debugs, and implements features.
 
+QA Engineer: Designs test cases, identifies bugs, ensures quality.
+
+Project Manager: Plans timelines, allocates resources, and mitigates risks.
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+IDEs (e.g., IntelliJ, VS Code): Provide tools (debugger, syntax highlighting) to streamline coding.
 
+VCS (e.g., Git, SVN): Track changes, enable collaboration, and manage code versions. Critical for teamwork and rollbacks.
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+Changing Requirements: Use Agile to adapt incrementally.
 
+Technical Debt: Schedule refactoring sprints.
+
+Communication Gaps: Hold daily stand-ups and use collaboration tools (Slack, Jira).
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+Unit Testing: Validates individual components (e.g., a function). Tools: JUnit.
 
+Integration Testing: Checks module interactions (e.g., API connections).
+
+System Testing: Tests the entire system end-to-end.
+
+Acceptance Testing: Ensures software meets user needs (e.g., UAT).
 #Part 2: Introduction to AI and Prompt Engineering
 
 
